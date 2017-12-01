@@ -1,0 +1,23 @@
+SUBSTITUTION CIPHER
+1) Encryption has no restrictions
+2) Decryption has no restrictions
+3) Without key prints only uppercase alphabets and input can be only alphabets
+
+CAESAR CIPHER
+1) Encryption has no restrictions
+2) Decryption has no restrictions
+3) Without key prints only uppercase alphabets and input can be only alphabets
+
+VIGNERE CIPHER
+1) The text to be encrypted must not contain any spaces, numbers or special characters. 
+     It must be pure text consisting of the 26 English Alphabets only!!
+2) The text must not contain lower case characters.
+3) The key must also follow the same rules as the text to be encrypted, that is no spaces, numbers, special characters or lower case letters. 
+     Only upper case English Alphabets are allowed.
+
+VERNAM CIPHER
+1) The text to be encrypted should not contain any space, numeric or special characters. It must be the pure 26 english alphabets only!!
+2) The text to be encrypted should have only lower case letters.
+3) The key and the encrpypted text should have the sam enumber of characters.
+example if the message has 4 characters, the key should have 4 characters only. Neither less nor more.
+4) Like the text, the key should also not contain any special character or number, only the lower cased 26 alphabets should be used for the key.
